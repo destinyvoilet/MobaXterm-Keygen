@@ -48,5 +48,6 @@ Then copy `Custom.mxtpro` to `C:\Program Files (x86)\Mobatek\MobaXterm`.
 
 # 总结
 命令： python .\MobaXterm-Keygen.py "DoubleSine" 24.2
+
 把产生的mxtpro文件放入家庭版MobaXterm目录下即可激活
 
