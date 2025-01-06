@@ -46,3 +46,7 @@ Then copy `Custom.mxtpro` to `C:\Program Files (x86)\Mobatek\MobaXterm`.
    
    The only way I found is that you should export custom settings to a file named `MobaXterm customization.custom` which is also a zip file. Then merge two zip file: `Custom.mxtpro` and `MobaXterm customization.custom` to `Custom.mxtpro`. Finally copy newly-generated `Custom.mxtpro` to MobaXterm's installation path.
 
+# 总结
+命令： python .\MobaXterm-Keygen.py "DoubleSine" 24.2
+把产生的mxtpro文件放入家庭版MobaXterm目录下即可激活
+
